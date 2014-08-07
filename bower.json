@@ -1,0 +1,13 @@
+{
+  "name": "notebook",
+  "private": true,
+  "dependencies": {
+    "requirejs": "~2.1.14",
+    "requirejs-json": "~0.0.3",
+    "dropbox-build": "*",
+    "react": "~0.11.1",
+    "when": "~3.4.3",
+    "requirejs-domready": "~2.0.1"
+  },
+  "devDependencies": {}
+}
